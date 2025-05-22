@@ -15,15 +15,16 @@
    - In a robotics labs, developing modern humanoid robots/androids, like Boston Dynamics Atlas, Teslas Optimus or Unitrees G1 robots.
    - In a quantum computer lab, pushing the limits of our understanding of computing.
 
-
 #### 3. **Languages**
 
    - *Fantastic* English
    - ***Terrible*** Spanglish
+   - Can count to 10 and sing "*Ohne Diche*" by Rammstein in German
    - Decent Python (PCEP Certified, PCAP Ready)
    - Okay Kotlin
    - Can read C/C++, and write it if I ~~try really hard~~, pray a little.
    - Wrote Go once
+
 
 ## Websites I recommend
 - [Stack Overflow](https://www.stackoverflow.com) - This site is the collection of every bug and issue known to programmers for decades. If you have a problem, odds are someone else has had it too, and they've already asked and likely have an answer waiting for you.
@@ -32,13 +33,17 @@
 
 - [US Debt Clock](https://www.usdebtclock.org/) - Look at all the pretty colors and numbers. Nevermind what any of it means..
 
+
 ### Some of my Favorite Quotes:
 
 > “Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.” 
 > — *Alan Watts*
 
 > “We are the cosmos made conscious and life is the means by which the universe understands itself.”
-> — Brian Cox
+> — *Brian Cox*
+
+> “Perhaps we are the gods now.”
+> — *Gene Roddenberry*
 
 
 1. Brennon Miller
