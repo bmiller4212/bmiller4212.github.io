@@ -1,6 +1,8 @@
 # bmiller4212.github.io
 
 # About Me
+31, Male, was born in Ohio, moved to NC at 13 and grew up on Topsail Island. I've seen more states than I haven't. I've been on an awakening journey for over half of my life and everytime I reach a breakthrough in understanding our existence, it creates more questions. 
+
 ## Interests
 #### 1. **Hobbies**
 
@@ -37,13 +39,13 @@
 ### Some of my Favorite Quotes:
 
 > “Technology is destructive only in the hands of people who do not realize that they are one and the same process as the universe.” 
-> — *Alan Watts*
+> <sub>*-Alan Watts*</sub>
 
 > “We are the cosmos made conscious and life is the means by which the universe understands itself.”
-> — *Brian Cox*
+> <sub>— *Brian Cox*</sub>
 
-> “Perhaps we are the gods now.”
-> — *Gene Roddenberry*
+> “The machines will never know the joy of a raindrop on skin, but they may one day write poetry about it anyway.”
+> <sub>*-Unknown*</sub>
 
 
 1. Brennon Miller
